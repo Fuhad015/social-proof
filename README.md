@@ -30,8 +30,9 @@ _(Screenshot would be placed here)_
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Fuhad015/social-proof)
+- Live Site URL: [Live Site](https://social-proof-three-sage.vercel.app/)
+- image gallery: [Gallery](https://postimg.cc/gallery/JnyqCdd)
 
 ## My process
 
@@ -42,7 +43,7 @@ _(Screenshot would be placed here)_
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Pure Vanilla CSS (No frameworks)
+- Vanilla CSS (No frameworks)
 
 ### What I learned
 
@@ -73,10 +74,6 @@ I reinforced my skills in building responsive layouts using CSS Grid and Flexbox
 }
 ```
 
-### Continued development
-
-I want to continue focusing on writing clean, maintainable CSS architectures and mastering advanced CSS features, such as custom properties and complex responsive designs without relying on frameworks.
-
 ### Useful resources
 
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - The official documentation is always my go-to resource for finding the right CSS properties.
@@ -86,8 +83,7 @@ I want to continue focusing on writing clean, maintainable CSS architectures and
 
 - **Tools used:** Google AI Studio (Gemini 3.1 Pro)
 - **How it was used:** I used the AI to help scaffold the HTML structure and write the vanilla CSS with the custom color palette, and generate the staggered layout logic. The AI also assisted in writing this README file.
-- **What worked well:** The AI was excellent at quickly translating the design requirements (colors, typography, layout) into functional HTML and CSS code.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Adesanya Fuhad
